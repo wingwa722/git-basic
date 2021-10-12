@@ -1,0 +1,3 @@
+add means changes to the staging area.
+commit means changes.
+push means local commits to publish them to GitHub.
